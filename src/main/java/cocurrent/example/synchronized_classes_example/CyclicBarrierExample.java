@@ -1,6 +1,5 @@
 package cocurrent.example.synchronized_classes_example;
 
-import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 
 /**
